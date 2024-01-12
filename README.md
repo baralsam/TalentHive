@@ -9,6 +9,8 @@
 * Review and Ratings System: Build trust through our robust review and ratings system. Leave feedback to help others make informed decisions.
 * Flexible Payments: Enjoy convenient payment options, making financial transactions smooth for both freelancers and clients.
 * User-Friendly Interface: With an intuitive design, Talent Hive offers a user-friendly experience, ensuring easy navigation for all users.
+* Internationalization in French: Seamlessly switch between languages with our internationalization feature, allowing users to experience the platform in French.
+* Web Frameworks Used: Node.js, Express.js, Tailwind
 
 ## Getting Started
 * To get started with TalentHive, follow these steps:
